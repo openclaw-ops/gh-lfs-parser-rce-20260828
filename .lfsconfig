@@ -1,0 +1,4 @@
+[lfs]
+	url = file:///does-not-exist
+[remote "lfs.customtransfer.lfs-standalone-file.path"]
+	lfsurl = ./.pwn
